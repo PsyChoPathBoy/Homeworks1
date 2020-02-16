@@ -1,0 +1,34 @@
+#contact{
+    width: 100%;
+    height: 500px;
+    border: 1px solid white; 
+    display: flex;
+    background-color: peru;
+    background-size: cover;
+    font-family: Lucida Console;
+}
+
+.contactUs{
+    font-family: Lucida Console;
+    width: 33.33%;
+}
+
+.profile{
+    width: 100%;
+    border: white 2px solid;
+}
+
+
+#info{
+    background-color: peru;
+    height: 140px;
+    align-items: end;
+}
+
+#number{
+    font-family: sans-serif;
+}
+
+#email{
+    font-family: sans-serif;
+}
