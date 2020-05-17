@@ -1,0 +1,132 @@
+#topic1{
+    margin-top: 17%;
+    font-size: 70px;
+    height: fit-content;
+    width: 105%;
+    background-color: green;
+    text-align: left;
+    background-image: url(1862308.jpg);
+  }
+  #topic1text{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-shadow: 1px 2px green;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    margin-left:0px;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+ul {
+    position: absolute;
+    top: 0;
+    width: 1090px;
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: x-large;
+    font-family:'Lobster', serif; 
+  }
+  
+li a:hover {
+    background-color: white;
+  }
+
+.home{
+    background-color: aqua;
+}
+
+#morning{
+  background-image: url("morning.jpg");
+  width: auto;
+  height: 100px;
+  margin-top: 6%;
+}
+
+#magic{
+  width:0px;
+  font-size: 0.1px;
+}
+
+#morning-text{
+  margin-top: 2.7%;
+  width: fit-content;
+  height: fit-content;
+  background-color: white;
+  box-shadow: black;
+  font-family: 'Lora', serif ;
+  font-size: 60px;
+}
+
+#high-noon{
+  background-image: url("high-noon.jpg");
+  width: 100%;
+  height: 100px;
+  margin-top: 6%;
+}
+
+#highnoon-text{
+  margin-top: 2.9%;
+  width: fit-content;
+  height: fit-content;
+  background-color:white;
+  box-shadow: black;
+  margin-left: 38%;
+  font-size: 60px;
+  font-family: 'Lora', serif ;
+}
+
+#afternoon{
+  background-image: url("afternoon.jpg");
+  width: 100%;
+  height: 100px;
+  margin-top: 6%;
+}
+
+#afternoon-text{
+  margin-top: 2.7%;
+  width: fit-content;
+  height: fit-content;
+  background-color:white;
+  box-shadow: black;
+  margin-left: 66%;
+  font-size: 60px;
+  font-family: 'Lora', serif ;
+}
+
+#night{
+  background-image: url("night.jpg");
+  width: 100%;
+  height: 100px;
+  margin-top: 6%;
+}
+
+#night-text{
+  margin-top: 2.9%;
+  width: fit-content;
+  height: fit-content;
+  background-color:white;
+  box-shadow: black;
+  margin-left: 40%;
+  font-size: 60px;
+  font-family: 'Lora', serif ;
+}
+
+#morning-start{
+  font-family: 'Pacifico', serif ;
+  font-size: 40px;
+}
+
